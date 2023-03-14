@@ -3,7 +3,7 @@ Currently working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a c
 
 Recent blog posts:
  * [Differentiable pulse programming with qubits in PennyLane](https://pennylane.ai/qml/demos/tutorial_pulse_programming101.html)  
-   TLDR: Introducing pulse programming, that is, manipulating quantum states via the Hamiltonian interactions like on hardware, and running ctrl-VQE.
+   TLDR: Introducing pulse programming, that is, manipulating quantum states via the Hamiltonian interactions on the hardware level, and optimizing pulse shapes for variational quantum algorithms.
  * [Differentiating quantum error mitigation transforms](https://pennylane.ai/qml/demos/tutorial_diffable-mitigation.html)  
    TLDR: Differentiating *through* error mitigation transforms and proposing to differentiate (hyper) parameters of the transform itself.
  * [Estimating observables with classical shadows in the Pauli basis](https://pennylane.ai/qml/demos/tutorial_diffable_shadows.html)  
