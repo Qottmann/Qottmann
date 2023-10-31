@@ -2,7 +2,7 @@ I am interested in simulating quantum many body systems in condensed matter phys
 Currently working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a cross-platform Python library for differentiable programming of quantum computers.
 
 Recent blog posts:
- * [Pulse programming on OQC Lucy in PennyLane](https://pennylane.ai/qml/demos/oqc_pulse/)
+ * [Pulse programming on OQC Lucy in PennyLane](https://pennylane.ai/qml/demos/oqc_pulse/)  
    TLDR: You can now run pulse programs on OQC's Lucy quantum computer in PennyLane via AWS Braket. Also discussing some basic physics of driving transmon qubits.
  * [Is quantum computing useful before fault tolerance?](https://pennylane.ai/qml/demos/tutorial_mitigation_advantage)  
    TLDR: Reproducing the key ingredients of the zero noise extraplation in IBM's paper on utility of quantum computing [Nature 618, 500–505, 2023](https://www.nature.com/articles/s41586-023-06096-3) and a comment on the comparison with classical methods.
