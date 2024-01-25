@@ -1,5 +1,5 @@
 I am interested in simulating quantum many body systems in condensed matter physics and quantum chemistry.  
-Currently working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a cross-platform Python library for differentiable programming of quantum computers.
+Working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a cross-platform Python library for differentiable programming of quantum computers.
 
 Recent blog posts:
  * [Learning shallow quantum circuits with local inversions and circuit sewing](https://pennylane.ai/qml/demos/tutorial_learningshallow/)
