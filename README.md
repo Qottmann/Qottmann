@@ -4,6 +4,8 @@ Working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a cross-platf
 Recent blog posts:
  * [Learning shallow quantum circuits with local inversions and circuit sewing](https://pennylane.ai/qml/demos/tutorial_learningshallow/)  
    Shocasing circuit sewing with local inversions that have been introduced in introduced [2401.10095](https://arxiv.org/abs/2401.10095).
+ * [Evaluating analytic gradients of pulse programs on quantum computers](https://pennylane.ai/qml/demos/tutorial_odegen/)  
+   TLDR of our paper [2309.16756](https://arxiv.org/abs/2309.16756) on a new method to evaluate gradients of quantum pulse programs on quantum hardware.
  * [Pulse programming on OQC Lucy in PennyLane](https://pennylane.ai/qml/demos/oqc_pulse/)  
    You can now run pulse programs on OQC's Lucy quantum computer in PennyLane via AWS Braket. Also discussing some basic physics of driving transmon qubits.
  * [Is quantum computing useful before fault tolerance?](https://pennylane.ai/qml/demos/tutorial_mitigation_advantage)  
