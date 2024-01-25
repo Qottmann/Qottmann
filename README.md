@@ -2,7 +2,7 @@ I am interested in simulating quantum many body systems in condensed matter phys
 Working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a cross-platform Python library for differentiable programming of quantum computers.
 
 Recent blog posts:
- * [Learning shallow quantum circuits with local inversions and circuit sewing](https://pennylane.ai/qml/demos/tutorial_learningshallow/)
+ * [Learning shallow quantum circuits with local inversions and circuit sewing](https://pennylane.ai/qml/demos/tutorial_learningshallow/)  
    Shocasing circuit sewing with local inversions that have been introduced in introduced [2401.10095](https://arxiv.org/abs/2401.10095).
  * [Pulse programming on OQC Lucy in PennyLane](https://pennylane.ai/qml/demos/oqc_pulse/)  
    You can now run pulse programs on OQC's Lucy quantum computer in PennyLane via AWS Braket. Also discussing some basic physics of driving transmon qubits.
