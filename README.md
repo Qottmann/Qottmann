@@ -3,6 +3,8 @@ Working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - a cross-platf
 
 Highlighted [blog posts and demos](https://pennylane.ai/search?q=kottmann&contentType=DEMO):
  * [Introducing (Dynamical) Lie Algebras for quantum practitioners](https://pennylane.ai/qml/demos/tutorial_liealgebra)
+ * [What is the time-ordered exponential and why you should stop using it](https://pennylane.ai/blog/2024/09/time_ordered_exponential)
+   A rant on the fact that the notation of the time-ordered exponential implies that it is a function Texp(∙) with an integral as its argument inside.
  * [Shadow Hamiltonian simulation](https://pennylane.ai/qml/demos/tutorial_shadow_hamiltonian_simulation)  
    Not to be confused with classical shadows, has nothing to do with it. Think of it as [g-sim](https://pennylane.ai/qml/demos/tutorial_liesim) but on a quantum computer.
  * [Learning shallow quantum circuits with local inversions and circuit sewing](https://pennylane.ai/qml/demos/tutorial_learningshallow/)  
