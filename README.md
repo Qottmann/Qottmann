@@ -1,5 +1,5 @@
 I am interested in simulating quantum many body systems in condensed matter physics and quantum chemistry.  
-Working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - definitive open-source Python framework for quantum programming. Built by researchers, for research.
+Working on [PennyLane](https://github.com/PennyLaneAI/pennylane) - the definitive open-source Python framework for quantum programming. Built by researchers, for research.
 
 Highlighted [blog posts and demos](https://pennylane.ai/search?q=kottmann&contentType=DEMO):
  * [Introducing (Dynamical) Lie Algebras for quantum practitioners](https://pennylane.ai/qml/demos/tutorial_liealgebra)
